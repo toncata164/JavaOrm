@@ -23,4 +23,9 @@ public class Table<T>
 	{
 		throw new UnsupportedOperationException();
 	}
+	
+	public QueryBuilder first()
+	{
+		throw new UnsupportedOperationException();
+	}
 }
